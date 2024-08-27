@@ -17,4 +17,4 @@ Spring Batch Project for processing large volumes of data in batch jobs. This pr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/amit7678/SpringBatch.git
